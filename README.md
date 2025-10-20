@@ -30,25 +30,23 @@ This repository contains the **React frontend** for the Task Management Applicat
 
 ### Home Dashboard
 
-![Home Dashboard](screenshots/home.png)
+![Home Dashboard](https://github.com/purnachandu12/Kaiburr-task-3/blob/main/Home.png)
 *Displays all tasks with options to search, delete, and execute commands.*
 
 ### Add Task Form
 
-![Add Task Form](screenshots/add-task.png)
+![Add Task Form](https://github.com/purnachandu12/Kaiburr-task-3/blob/main/add%20task.png)
 *Form to create a new task by providing task ID, name, owner, and command.*
 
 ### Execute Task
 
-![Execute Task](screenshots/execution.png)
+![Execute Task](https://github.com/purnachandu12/Kaiburr-task-3/blob/main/Execution.png)
 *Execute a task’s shell command and view output immediately.*
 
 ### Search Tasks
 
-![Search Tasks](screenshots/search.png)
+![Search Tasks](https://github.com/purnachandu12/Kaiburr-task-3/blob/main/Search.png)
 *Search for tasks by name or ID and see matching results.*
-
-> **Note:** Save your screenshots in a `screenshots/` folder and update the paths if needed.
 
 ---
 
@@ -113,26 +111,3 @@ task-frontend/
 ├─ tsconfig.json
 └─ README.md
 ```
-
----
-
-## Usage
-
-* **View Tasks**: Navigate to the Home page to see all tasks.
-* **Add a Task**: Click on `Add Task`, fill in the details, and submit.
-* **Search Task**: Use the search bar to find tasks by name or ID.
-* **Delete Task**: Click the delete icon on a task row to remove it.
-* **Run Command**: Click the execute button for a task to run its shell command.
-* **View Execution Output**: The output is displayed immediately after execution and stored in the task’s execution history.
-
----
-
-## License
-
-© 2025 Kaiburr LLC. All rights reserved.
-
----
-
-If you want, I can **also generate a GitHub-ready folder structure with placeholder screenshots** so you can just drop your real images and push it—it’ll be fully ready for your repo.
-
-Do you want me to do that?
